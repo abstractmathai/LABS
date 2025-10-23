@@ -1,3 +1,3 @@
-# self-study of Certified Full Stack Developer Curriculum
+#self-study of full-stack web development from [freecodecamp.org](https://www.freecodecamp.org/learn/full-stack-developer)
 
-# work with HTML, CSS, and JavaScript to build responsive user interfaces, explore React and TypeScript for advanced web applications, and learn to manage data with relational databases - and on the backend, you'll use Git, Npm, Node.js.
+#all from labs in freecodecamp.org
